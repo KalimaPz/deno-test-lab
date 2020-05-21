@@ -1,0 +1,1 @@
+console.log('Hello World') // same as JavaScript
